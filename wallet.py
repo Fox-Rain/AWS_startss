@@ -614,6 +614,6 @@ while(1):
         
         time.sleep(1)
 
-        browser = webdriver.Chrome('c:/coding_cryptoauto/chromedriver.exe')        
+        browser = webdriver.Chrome(path)        
 
         continue
